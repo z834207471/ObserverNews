@@ -1,1 +1,2 @@
 # ObserverNews
+本项目用于观察者模式和retrofit的学习

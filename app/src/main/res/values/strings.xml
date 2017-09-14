@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NewsDemo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string-array name="newsTitles">
+        <item>@string/news_title_1</item>
+        <item>@string/news_title_2</item>
+        <item>@string/news_title_3</item>
+        <item>@string/news_title_4</item>
+        <item>@string/news_title_5</item>
+        <item>@string/news_title_6</item>
+        <item>@string/news_title_7</item>
+    </string-array>
+    <string name="news_title_1">社会</string>
+    <string name="news_title_2">国内</string>
+    <string name="news_title_3">世界</string>
+    <string name="news_title_4">娱乐</string>
+    <string name="news_title_5">体育</string>
+    <string name="news_title_6">NBA</string>
+    <string name="news_title_7">科技</string>
+</resources>
