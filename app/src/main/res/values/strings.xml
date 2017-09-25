@@ -1,24 +1,24 @@
 <resources>
-    <string name="app_name">NewsDemo</string>
+    <string name="app_name">NewsText</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
-    <string-array name="newsTitles">
-        <item>@string/news_title_1</item>
-        <item>@string/news_title_2</item>
-        <item>@string/news_title_3</item>
-        <item>@string/news_title_4</item>
-        <item>@string/news_title_5</item>
-        <item>@string/news_title_6</item>
-        <item>@string/news_title_7</item>
+    <string-array name="titles">
+        <item>@string/fragmnet1</item>
+        <item>@string/fragmnet2</item>
+        <item>@string/fragmnet3</item>
+        <item>@string/fragmnet4</item>
+        <item>@string/fragmnet5</item>
+        <item>@string/fragmnet6</item>
+        <item>@string/fragmnet7</item>
     </string-array>
-    <string name="news_title_1">社会</string>
-    <string name="news_title_2">国内</string>
-    <string name="news_title_3">世界</string>
-    <string name="news_title_4">娱乐</string>
-    <string name="news_title_5">体育</string>
-    <string name="news_title_6">NBA</string>
-    <string name="news_title_7">科技</string>
+    <string name="fragmnet1">社会</string>
+    <string name="fragmnet2">国内</string>
+    <string name="fragmnet3">国际</string>
+    <string name="fragmnet4">娱乐</string>
+    <string name="fragmnet5">体育</string>
+    <string name="fragmnet6">nba</string>
+    <string name="fragmnet7">科技</string>
 </resources>

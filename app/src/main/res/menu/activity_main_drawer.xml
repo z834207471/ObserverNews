@@ -5,11 +5,11 @@
         <item
             android:id="@+id/news"
             android:icon="@drawable/ic_menu_camera"
-            android:title="新闻资讯" />
+            android:title="News" />
         <item
             android:id="@+id/meinv"
             android:icon="@drawable/ic_menu_gallery"
-            android:title="美女图库" />
+            android:title="Meinv" />
         <item
             android:id="@+id/nav_slideshow"
             android:icon="@drawable/ic_menu_slideshow"

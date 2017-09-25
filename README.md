@@ -1,2 +1,2 @@
 # ObserverNews
-本项目用于观察者模式和retrofit的学习
+基于MVC模式的新闻App，用于MVC与Retrofit的学习
